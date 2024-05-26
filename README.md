@@ -1,2 +1,2 @@
 # Tutor-de-Cableado-Estructurado
-Web explicativa Cableado Estructurado
+Web explicativa sobre el cableado Estructurado
